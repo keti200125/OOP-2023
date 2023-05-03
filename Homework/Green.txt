@@ -1,0 +1,5 @@
+6 Cactus sunny 10
+4 Corn shady 3
+7 Orchids neutral 4
+4 Rose neutral 6
+5 Tulip sunny 5
